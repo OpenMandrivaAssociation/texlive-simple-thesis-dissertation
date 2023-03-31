@@ -1,6 +1,6 @@
 Name:		texlive-simple-thesis-dissertation
 Version:	43058
-Release:	1
+Release:	2
 Summary:	Template for a simple thesis or dissertation (Ph.D. or master's degree) or technical report, in XeLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/simple-thesis-dissertation
