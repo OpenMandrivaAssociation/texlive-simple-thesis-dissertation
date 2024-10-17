@@ -3,7 +3,7 @@ Version:	43058
 Release:	2
 Summary:	Template for a simple thesis or dissertation (Ph.D. or master's degree) or technical report, in XeLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/simple-thesis-dissertation
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/simple-thesis-dissertation
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/simple-thesis-dissertation.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/simple-thesis-dissertation.doc.r%{version}.tar.xz
